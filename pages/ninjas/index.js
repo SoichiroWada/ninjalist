@@ -1,7 +1,7 @@
 const View = () => {
     return (
         <div>
-            <h3>View</h3>
+            <h1>All Ninjas</h1>
         </div>
     );
 }
